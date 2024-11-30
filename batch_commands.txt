@@ -1,0 +1,8 @@
+cd
+cd Desktop
+pwd
+ls | wc -l
+which grep
+cd P3
+cat < test2.txt | tr 'a-z' 'A-Z' > final_output.txt
+
